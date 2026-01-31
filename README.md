@@ -246,3 +246,7 @@ students usse seekhna chahenge.
 ⭐ If you like this project, give it a star  
 🛠️ Contributions are welcome  
 📩 Ideas & improvements appreciated
+## 🔗 Links
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ankitkumartyagiuset.github.io/AI-Teacher-Platform/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/ankitkumartyagiuset/AI-Teacher-Platform)
