@@ -65,17 +65,29 @@ Ek AI jo *teacher ki tarah samjhe aur samjhaye*.
 
 ## 🏗️ High-Level Architecture
 Raw Notes
+
    ↓
+
 OCR (text nikalo)
+
    ↓
+   
 Language Detection
+   
    ↓
+   
 Content Cleaning
+
    ↓
+
 Chapter & Topic Split
+
    ↓
+
 Teacher-Style Explanation
+
    ↓
+
 Summary + Revision Notes
 ---
 
@@ -120,17 +132,30 @@ Example style:
 ## 📂 Project Folder Structure
 
 AI-Teacher-Platform/
+
 │
+
 ├── frontend/                     # 🎨 Student Face (UI)
+
 ├── backend/                      # ⚙️ System Brain
+
 ├── core_ai/                      # 🧠 Teacher Logic (Heart)
+
 ├── ai_prompts/                   # 🧂 AI Behavior Control
+
 ├── docs/                         # 📄 Documentation
+
 ├── sample_data/                  # 📚 Demo & Testing Data
+
 ├── tests/                        # 🧪 Quality Check
+
+
 ├── README.md                     # ⭐ Project Overview
+
 ├── docker-compose.yml            # 🐳 One-command run
+
 ├── .gitignore
+
 └── LICENSE
 
 
