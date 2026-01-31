@@ -120,21 +120,17 @@ Example style:
 
 ## 📂 Project Folder Structure
 
-AI-Teacher-Platform/
-├── frontend/
-├── backend/
-├── core_ai/
-├── ai_prompts/
-├── docs/
-├── sample_data/
-├── tests/
-├── README.md
-├── docker-compose.yml
-└── LICENSE
-👉 Har folder ka clear role hai:  
-Frontend = Student face  
-Backend = System brain  
-AI = Teacher logic
+AI-Teacher-Platform:
+  frontend: Student face
+  backend: System brain
+  core_ai: Teacher logic
+  ai_prompts:
+  docs:
+  sample_data:
+  tests:
+  README.md:
+  docker-compose.yml:
+  LICENSE:
 
 ---
 
